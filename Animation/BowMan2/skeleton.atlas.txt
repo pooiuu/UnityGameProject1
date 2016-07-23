@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: false
+  xy: 1807, 3506
+  size: 1932, 324
+  orig: 1932, 324
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 2961, 2934
+  size: 641, 371
+  orig: 641, 371
+  offset: 0, 0
+  index: -1
+Bow
+  rotate: false
+  xy: 2, 1595
+  size: 839, 2235
+  orig: 839, 2235
+  offset: 0, 0
+  index: -1
+HL_Finger
+  rotate: false
+  xy: 3741, 3529
+  size: 225, 301
+  orig: 225, 301
+  offset: 0, 0
+  index: -1
+HL_Hand
+  rotate: true
+  xy: 2961, 2649
+  size: 283, 354
+  orig: 283, 354
+  offset: 0, 0
+  index: -1
+HL_LowerArm
+  rotate: false
+  xy: 2, 2
+  size: 680, 354
+  orig: 680, 354
+  offset: 0, 0
+  index: -1
+HL_UpperArm
+  rotate: false
+  xy: 1807, 1408
+  size: 372, 354
+  orig: 372, 354
+  offset: 0, 0
+  index: -1
+HR_Hand
+  rotate: false
+  xy: 2320, 2219
+  size: 558, 371
+  orig: 558, 371
+  offset: 0, 0
+  index: -1
+HR_UpperArm
+  rotate: false
+  xy: 2320, 1846
+  size: 558, 371
+  orig: 558, 371
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 843, 1417
+  size: 962, 827
+  orig: 962, 827
+  offset: 0, 0
+  index: -1
+LeftLeg
+  rotate: false
+  xy: 2, 358
+  size: 713, 1235
+  orig: 713, 1235
+  offset: 0, 0
+  index: -1
+Pocket
+  rotate: false
+  xy: 1807, 1764
+  size: 511, 826
+  orig: 511, 826
+  offset: 0, 0
+  index: -1
+RightLeg
+  rotate: true
+  xy: 1807, 2592
+  size: 713, 1152
+  orig: 713, 1152
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 843, 2246
+  size: 962, 1584
+  orig: 962, 1584
+  offset: 0, 0
+  index: -1
+bowstring
+  rotate: true
+  xy: 1807, 3307
+  size: 197, 2028
+  orig: 197, 2028
+  offset: 0, 0
+  index: -1
