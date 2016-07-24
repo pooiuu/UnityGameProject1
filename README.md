@@ -9,7 +9,14 @@ SWMaestro MobileGame Demo Project1
 
 Script 폴더 설명
 DB-> 말은 DB이지만 안에서는 게임에 쓰이지 않는 코드가 들어있습니다. 거르세요.
+
 General->몬스터의 리스폰, 스코어 관리, 로딩 등의 게임의 속을 관리하는 코드가 들어있습니다.
+
 Monster->Normal Monster 만 쓰였습니다.
+
 Player->ShootArrow, Arrow 만 쓰였습니다.
+
 UI->UI를 관리하는 코드가 들어있습니다.
+
+
+그리고 맨 밑의 jsp 코드들은 서버 내에서 쓰이는 코드입니다.
